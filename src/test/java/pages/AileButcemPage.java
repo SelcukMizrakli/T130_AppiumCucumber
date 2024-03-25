@@ -40,7 +40,7 @@ public class AileButcemPage {
     public MobileElement meslekBox;
 
     public void ilkEkranAyarlari(){
-        ReusableMethods.wait(2);
+        ReusableMethods.wait(3);
         for (int i=0; i<6; i++){
             ReusableMethods.ekranKaydirmaMethodu(951,1001,750,117,1001);
         }

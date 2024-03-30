@@ -1,5 +1,6 @@
+@browser
 Feature:
 
   Scenario:
 
-    * Kullanici anasayfaya gider
+    * Kullanici "http://www.hepsiburada.com" adresine gider

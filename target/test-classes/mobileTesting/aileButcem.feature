@@ -30,7 +30,7 @@ Feature: aile butcem uygulamasi fonksiyonlari test edilir
     * "Kaydet" Butonuna text uzerinden Tiklanir
     * basariyla eklendigini dogrulayin
     * Kullanici uygulamayi kapatir
-  @ab
+
   Scenario: bu seneryo maas geliri eklemek icin kullanildi
 
     * anasayfadaki arti butonuna tiklayin
@@ -44,7 +44,7 @@ Feature: aile butcem uygulamasi fonksiyonlari test edilir
     * "Kaydet" Butonuna text uzerinden Tiklanir
     * basariyla eklendigini dogrulayin
     * Kullanici uygulamayi kapatir
-
+  @ab
   Scenario: bu seneryo ulasim icin bir gider eklemek icin kullanildi
 
     * anasayfadaki arti butonuna tiklayin

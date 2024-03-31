@@ -16,8 +16,8 @@ public class Driver {
     private static AndroidDriver<AndroidElement> appiumDriver;
     private static IOSDriver<IOSElement> iosDriver;
 
-    static final String TELEFONADI="Pixel 2";
-    static final String ANDROIDVERSION="10.0";
+    static final String TELEFONADI="TECNO CAMON 20 PRO";
+    static final String ANDROIDVERSION="13.0";
     static final String PLATFORM="Android";
     static final String OTOMASYON_ISMI="UiAutomator2";
 
